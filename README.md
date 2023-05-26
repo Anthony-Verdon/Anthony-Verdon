@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hy everyone !
 
-<!--
-**Anthony-Verdon/Anthony-Verdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is Anthony Verdon, I'm a student at @42School of Angoulême. I like to code and solve problems, and have some others occupations like gardening, take care of animals and doing sport.
 
-Here are some ideas to get you started:
+## Current Projects
+1. Webserv : a web server on C++98 using Select for my 42 common core
+2. Rogue-Like Game : A game based on the Rogue Games Style, using Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+You can see all my projects by checking my organizations. There is High School Projects, 42 Projects (only common core for the moment) and Personal Projects. 
+
+## What I'm Learning 
+I'm currently learning Unity by myself, and improving my skills on C and C++ in my school.
+
+## Contact Me
+You can contact me at averdon@student.42angouleme.fr or on Discord : Nordev#1575
