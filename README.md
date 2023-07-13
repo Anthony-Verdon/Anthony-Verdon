@@ -13,6 +13,9 @@ You can see all my projects by checking my organizations.
 - 42 Projects : https://github.com/AnthonyVerdon-42Projects
 - Personal Projects : https://github.com/AnthonyVerdon-PersonalProjects
 
+## My Portfolio 
+
+Check what I made on https://nordev.itch.io/ !
 ## What I'm Learning 
 I'm currently learning Unity by myself, and improving my skills on C and C++ in my school.
 
