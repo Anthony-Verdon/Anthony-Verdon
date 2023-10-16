@@ -5,8 +5,8 @@ My name is Anthony Verdon, I'm a student at @42School of Angoulême. I like to c
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli4qumlw003508mhzojl9lhe/stats?cursusId=21&coalitionId=218" alt="averdon's 42 stats" /></a>
 ## Current Projects
-1. Rogue-Like Game : A game based on the Rogue Games Style, using Unity (currently ob pause). Link : https://github.com/AnthonyVerdon-PersonalProjects/rogue-like
-2. ft_transcendence : the goal is to create a web application to chat with peoples and play pong. 
+1. scop : render an object in 3D using OpenGL (currently, I want to update the parsing to use REGEX, and use Vulkan instead of OpenGL)
+2. gamejams : I maybe not working on a gamejam when you read this, but I participate to gamejams sometimes (check my portfolio)
 
 ## My Projects
 You can see all my projects by checking my organizations. 
@@ -15,10 +15,7 @@ You can see all my projects by checking my organizations.
 - Personal Projects : https://github.com/AnthonyVerdon-PersonalProjects
 
 ## My Portfolio 
-
 Check what I made on https://nordev.itch.io/ !
-## What I'm Learning 
-I'm currently learning Unity by myself, and improving my skills on C and C++ in my school.
 
 ## Contact Me
 You can contact me at averdon@student.42angouleme.fr or on Discord : nordev
