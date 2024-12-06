@@ -9,9 +9,8 @@ My name is Anthony Verdon, I'm a student at @42School of Angoulême. I like to c
 
 ## My Projects
 You can see all my projects by checking my organizations. 
-- High School Projects : https://github.com/AnthonyVerdon-HighSchoolProjects
-- 42 Projects : https://github.com/AnthonyVerdon-42Projects
-- Personal Projects : https://github.com/AnthonyVerdon-PersonalProjects
+- gamedev projects : https://github.com/stars/Anthony-Verdon/lists/gamedev
+- 42 Projects : https://github.com/stars/Anthony-Verdon/lists/42cursus
 
 ## My Portfolio 
 Check what I made on https://nordev.itch.io/ !
