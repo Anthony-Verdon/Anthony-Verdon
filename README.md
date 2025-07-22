@@ -13,7 +13,7 @@ You can see all my projects by checking my organizations.
 - 42 Projects : https://github.com/stars/Anthony-Verdon/lists/42cursus
 
 ## My Portfolio 
-Check what I made on https://nordev.itch.io/ !
+Check what I made on [https://nordev.itch.io/](https://anthony-verdon.github.io/) !
 
 ## Contact Me
 You can contact me at averdon@student.42angouleme.fr or on Discord : nordev
