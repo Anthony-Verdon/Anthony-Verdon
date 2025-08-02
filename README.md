@@ -4,7 +4,7 @@
 My name is Anthony Verdon, I'm a student at @42School of Angoulême. I'm currently working at Eversim as an intern.
 
 ## Current Projects
-. 42Run: a 42 project where I need to replicate Temple Run in C++ with OpenGL. Also useful to improve my project 'Engine'
+- 42Run: a 42 project where I need to replicate Temple Run in C++ with OpenGL. Also useful to improve my project 'Engine'
 
 ## My Projects
 You can see all my projects by checking my organizations. 
